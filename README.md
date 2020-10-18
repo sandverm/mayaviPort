@@ -60,7 +60,7 @@ Get started
 
 TCP port will get opened on the cloud. Any client can connect to publicly available Domain/IP and port
 
-![Screenshot](https://https://raw.githubusercontent.com/SunEmTech/mayaviPort/main/mayaviPort_cloud.gif)
+![Screenshot](https://raw.githubusercontent.com/SunEmTech/mayaviPort/main/mayaviPort_cloud.gif)
 
 * To expose SSH port on the cloud, execute:
 ```
@@ -75,7 +75,7 @@ TCP port will get opened on the cloud. Any client can connect to publicly availa
 ```
 ### Usage 2: Run as a service, connect to any port from remote machine.
 
-![Screenshot](https://https://raw.githubusercontent.com/SunEmTech/mayaviPort/main/mayaviPort_service.gif)
+![Screenshot](https://raw.githubusercontent.com/SunEmTech/mayaviPort/main/mayaviPort_service.gif)
 
 * Start mayaviPort service in the machine you want to expose the services.
 ```
